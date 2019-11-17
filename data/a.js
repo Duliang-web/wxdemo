@@ -208,11 +208,6 @@ let a = {
         "name": "衣物柔顺剂",
         "list_pic_url": "//img14.360buyimg.com/n7/jfs/t1/32713/4/12285/69799/5cb6d8d8Efbc4608a/59a09fba6d2da291.jpg",
         "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "衣物柔顺剂",
-        "list_pic_url": "//img13.360buyimg.com/n7/jfs/t19000/255/390749334/82066/b16561e2/5a728cbbN4ff3e3cf.jpg",
-        "retail_price": 59
       }]
     }, {
       "id": "",
@@ -236,11 +231,6 @@ let a = {
         "id": 1009024,
         "name": "资生堂水之密语",
         "list_pic_url": "//img10.360buyimg.com/n7/jfs/t1/11497/38/10594/154589/5c81e33bEf1bf4472/ad7c8017327d5e0e.jpg",
-        "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "无硅油洗发水",
-        "list_pic_url": "//img13.360buyimg.com/n7/jfs/t1/68863/28/2793/65831/5d10647bE4019f3fd/5cc558a95cf420d8.jpg",
         "retail_price": 59
       }]
     }, {
@@ -266,11 +256,6 @@ let a = {
         "name": "美的（Midea）扫地机器人",
         "list_pic_url": "//img14.360buyimg.com/n7/jfs/t1/84389/21/15515/120211/5dc97651Efce6a6f1/f0c82ecb630f42db.jpg",
         "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "美的（Midea）电饼铛",
-        "list_pic_url": "//img10.360buyimg.com/n7/jfs/t1/76393/33/15443/329360/5dce8f4cE67b5b13b/76838b26e183469e.jpg",
-        "retail_price": 59
       }]
     }, {
       "id": "",
@@ -294,11 +279,6 @@ let a = {
         "id": 1009024,
         "name": "珊瑚绒床上四件套",
         "list_pic_url": "//img10.360buyimg.com/n7/jfs/t1/52977/20/13521/356075/5da53d49E694c7130/dd730b5583cce9bc.jpg",
-        "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "纯棉床上用品套件",
-        "list_pic_url": "//img11.360buyimg.com/n7/jfs/t1/46435/1/12142/487576/5d9036c6E327f7415/70c66a7b4c781aeb.jpg",
         "retail_price": 59
       }]
     }, {
@@ -324,11 +304,6 @@ let a = {
         "name": "卡姿兰套装化妆品",
         "list_pic_url": "//img10.360buyimg.com/n7/jfs/t1/15557/24/3700/136701/5c28e07eEcbcb1550/bd512139ef94fe2d.jpg",
         "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "补水舒缓面霜乳霜",
-        "list_pic_url": "//img14.360buyimg.com/n7/jfs/t2734/183/3833880146/198775/e12ee6cc/579f14dfNdfc418ba.jpg",
-        "retail_price": 59
       }]
     }, {
       "id": "",
@@ -352,11 +327,6 @@ let a = {
         "id": 1009024,
         "name": "生活日用品面机",
         "list_pic_url": "//img14.360buyimg.com/n7/jfs/t1/78518/16/4849/112611/5d304a8aE60333d1d/8be80b066e409ceb.jpg",
-        "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "卫生间防水纸巾盒",
-        "list_pic_url": "//img12.360buyimg.com/n7/jfs/t1/45406/33/10458/101412/5d786870E3dcf212d/281528ba626a5319.jpg",
         "retail_price": 59
       }]
     }, {
@@ -382,11 +352,6 @@ let a = {
         "name": "燃气灶套餐",
         "list_pic_url": "//img13.360buyimg.com/n7/jfs/t1/84478/12/6342/134140/5d469e50Edda4c1b4/a87654e19269299b.jpg",
         "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "商用绞肉机",
-        "list_pic_url": "//img10.360buyimg.com/n7/jfs/t30214/345/1113853176/118789/2e0dded1/5cd66df3N54d6d31f.jpg",
-        "retail_price": 59
       }]
     }, {
       "id": "",
@@ -410,11 +375,6 @@ let a = {
         "id": 1009024,
         "name": "新生儿套装秋冬纯棉",
         "list_pic_url": "//img13.360buyimg.com/n7/jfs/t1/61709/27/14935/304216/5dc6e5f7E2277ba10/26fe39a8792c7932.jpg",
-        "retail_price": 59
-      }, {
-        "id": 1009024,
-        "name": "婴儿耳温计",
-        "list_pic_url": "//img13.360buyimg.com/n7/jfs/t18967/78/814084397/374484/70939353/5aaa0591N2e7e8800.jpg",
         "retail_price": 59
       }]
     }]

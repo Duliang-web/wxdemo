@@ -425,6 +425,7 @@
   text-align: center;
   overflow: hidden;
   font-size: 30rpx;
+  line-height:35rpx;
   color: #333;
 }
 
