@@ -1,0 +1,6 @@
+<!--default.wxml-->
+<view class="container">
+  <view class="default">
+    <text class="txt">正在开发中，敬请期待...</text>
+  </view>
+</view>

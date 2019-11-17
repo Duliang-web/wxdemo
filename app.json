@@ -1,15 +1,17 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/default/default",
+    "pages/childDefault/childDefault",
+    "pages/goods/goods",
     "pages/topic/topic",
-    "pages/catalog/catalog",
     "pages/cart/cart",
-    "pages/ucenter/ucenter"
+    "pages/catalog/catalog"
   ],
   "window": {
     "backgroundTextStyle": "dark",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "仿网易严选",
+    "navigationBarTitleText": "易派客精品馆",
     "navigationBarTextStyle": "black",
     "enablePullDownRefresh": true
   },
@@ -26,16 +28,16 @@
         "text": "首页"
       },
       {
-        "pagePath": "pages/topic/topic",
-        "iconPath": "static/images/ic_menu_topic_nor.png",
-        "selectedIconPath": "static/images/ic_menu_topic_pressed.png",
-        "text": "专题"
-      },
-      {
         "pagePath": "pages/catalog/catalog",
         "iconPath": "static/images/ic_menu_sort_nor.png",
         "selectedIconPath": "static/images/ic_menu_sort_pressed.png",
         "text": "分类"
+      },
+      {
+        "pagePath": "pages/topic/topic",
+        "iconPath": "static/images/ic_menu_topic_nor.png",
+        "selectedIconPath": "static/images/ic_menu_topic_pressed.png",
+        "text": "精品资讯"
       },
       {
         "pagePath": "pages/cart/cart",
@@ -44,7 +46,7 @@
         "text": "购物车"
       },
       {
-        "pagePath": "pages/ucenter/ucenter",
+        "pagePath": "pages/default/default",
         "iconPath": "static/images/ic_menu_me_nor.png",
         "selectedIconPath": "static/images/ic_menu_me_pressed.png",
         "text": "我的"

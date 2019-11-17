@@ -6,6 +6,8 @@ import b from '../../data/b.js'
 
 Page({
   data: {
+    x: "600rpx",
+    y: "900rpx",
     goodsCount: 0,
     newGoods: [],
     hotGoods: [],
